@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['Auto', 'Bus', 'Car', 'Traveller', 'Truck', 'Two Wheeler']
+
+roboflow:
+  workspace: meera-p-v-fxhz4
+  project: vehicles-wyvir
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/meera-p-v-fxhz4/vehicles-wyvir/dataset/1
