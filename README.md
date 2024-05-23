@@ -1,7 +1,7 @@
 # Image-Segmentation-on-Custom-dataset
 The project focuses on developing a model capable of detecting vehicle.<br/>
 <br/>
-![1 (1)](https://github.com/meerap1/Image-Segmentation-on-Custom-dataset/assets/156745402/e0cdbd05-d1c2-49da-96a1-805fed63845c)
+![image](https://github.com/meerap1/Image-Segmentation-on-Custom-dataset/assets/156745402/16bbb72a-bd3e-479e-a83f-28e06c2dd00f)
 
 ## Table of Content
 1. Introduction
